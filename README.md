@@ -7,7 +7,7 @@
     ```
     git clone https://github.com/kszr/cs6250-project.git
     ```
-4. Delete existing ```~/ryu``` directory and install cs6250-project/ryu (superfluous actions):
+4. Delete existing ```~/ryu``` directory and install ```cs6250-project/ryu``` (superfluous actions):
 
     ```
     rm -rf ~/ryu  
