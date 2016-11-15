@@ -7,7 +7,7 @@
     ```
     git clone https://github.com/kszr/cs6250-project.git
     ```
-4. Delete existing ```~/ryu``` directory and install ```cs6250-project/ryu``` (superfluous actions):
+4. Delete existing ```~/ryu``` directory and install ```cs6250-project/ryu``` (this step not really necessary):
 
     ```
     rm -rf ~/ryu  
@@ -18,7 +18,7 @@
 ##Built-in Mininet topologies
 * http://mininet.org/api/classmininet_1_1topo_1_1Topo.html
 
-##References
+##Additional References
 * http://sdnhub.org/tutorials/ryu/
 * http://ewen.mcneill.gen.nz/blog/entry/2014-08-31-ryu-on-ubuntu-14-04/ 
 * http://ryu.readthedocs.io/en/latest/writing_ryu_app.html
